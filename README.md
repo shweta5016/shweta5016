@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shweta5016
-- 👀 I’m interested in java Web development
-- 🌱 I’m currently learning Advance java. 
-- 💞️ I’m looking to collaborate with any It Company to work as junior java developer. 
+- 👀 I’m interested in Cloud Computing and Cybersecurity.
+- 🌱 I’m currently learning Advance cybersecurity practices. 
+- 💞️ I’m looking for an entry level job which can give my career a good start. 
 - 📫 ... 
 
 <!---
